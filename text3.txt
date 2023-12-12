@@ -1,1 +1,2 @@
 o giuwa may trang xung quanh maay vang
+ok babygit push -u origin main
